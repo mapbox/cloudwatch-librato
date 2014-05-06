@@ -1,7 +1,7 @@
 {
   "name": "cloudwatch-librato",
   "description": "Send your CloudWatch metrics to Librato Metrics",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "repository": {
       "type": "git",
       "url": "git://github.com/mapbox/cloudwatch-librato.git"
